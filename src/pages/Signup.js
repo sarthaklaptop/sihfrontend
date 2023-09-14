@@ -1,5 +1,4 @@
 import React from 'react'
-import signupImg from "../assets/signup.png"
 import Template from '../components/Template'
 import farmerssss from '../assets/farmerssss.jpg';
 

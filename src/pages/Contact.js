@@ -43,7 +43,7 @@ const Contact = ({isLoggedIn}) => {
             BY PHONE, EMAIL, OR SOCIAL MEDIA.
           </p>
         </div>
-        <div className='flex flex-row w-4/5'>
+        <div className='flex flex-row w-4/5 mt-5'>
           <div className='flex flex-col items-center justify-center gap-2 w-1/2 mx-10'>
             <button className='text-sm border-2 p-2 font-bold rounded-md border-white flex flex-row gap-10
                 items-center justify-center w-4/5'>
